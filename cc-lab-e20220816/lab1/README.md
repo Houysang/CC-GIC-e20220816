@@ -103,5 +103,5 @@ One suggestion an AI tool gave you and how you checked it.
 
 ## Clean up
 
-- [ ] Part 1.1: instance terminated, key pair and security group deleted.
-- [ ] Part 1.2: instance terminated, security group (and key pair, if any) deleted.
+- [x] Part 1.1: instance terminated, key pair and security group deleted.
+- [x] Part 1.2: instance terminated, security group (and key pair, if any) deleted.
